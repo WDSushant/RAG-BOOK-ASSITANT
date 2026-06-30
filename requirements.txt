@@ -4,8 +4,7 @@ langchain-community
 
 # LLM Providers
 
-langchain-openai
-langchain-mistralai
+langchain-google-genai
 openai
 mistralai
 
